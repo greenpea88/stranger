@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">stranger_maze</string>
+    <string name="enter">enter</string>
+    <string name="escape">escape</string>
+</resources>
